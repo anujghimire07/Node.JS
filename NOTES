@@ -8,4 +8,10 @@
 
 5. npm install : install node modules
 
-6. npm install @types/node
+6. npm install @types/
+
+7. npm i express : express package
+
+8. npm uninstall url : uninstall url package
+
+9.
